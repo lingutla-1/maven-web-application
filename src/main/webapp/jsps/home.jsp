@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to pallavi Technologies.</h1>
-<h1 align="center"> hi frnds. welcome to pallavi software solutions.</h1>
+<h1 align="center"> hello...hi frnds. welcome to pallavi software solutions.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
