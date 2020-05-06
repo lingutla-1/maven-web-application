@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.27.196:9980/mss/repository/swiggy-releases//</url>
+	      <url>http://13.235.33.45:9980/mss/repository/swiggy-releases//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.27.196:9980/mss/repository/swiggy-Snapshot//</url>
+	      <url>http://13.235.33.45:9980/mss/repository/swiggy-Snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
